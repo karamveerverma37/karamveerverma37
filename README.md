@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @karamveerverma37
 - 👀 I’m interested in biological data science and machine learning
 - 🌱 I’m currently learning html and php
+-    I’m currently working on single cell regulatory genomics
 - 💞️ I’m looking to collaborate on biological data science projects
 - 📫 How to reach me ...
 
